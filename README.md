@@ -23,6 +23,8 @@ An AI-powered system that automatically detects and classifies vehicle damage fr
 
 ---
 
+## 🖼️ Application Screenshots
+![Prediction Result-1](screenshots/prediction_result.png)
 ## 🎯 Overview
 
 This project automates vehicle damage inspection using a deep learning model. It analyzes car images and classifies damage into 6 categories:
