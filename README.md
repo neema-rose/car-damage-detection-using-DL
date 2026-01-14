@@ -202,7 +202,10 @@ This project showcases:
 - ML Model Deployment & Web Development
 - Building Production-Ready AI Systems
 ---
+<div align="center">
 
-**⭐ If you find this project useful, please consider giving it a star!**
+### ⭐ If this project helped you, please star the repository! ⭐
 
-**Made with ❤️ to automate car damage assessment.**
+**Made with ❤️ to automate Car Damage Assessment**
+
+</div>
