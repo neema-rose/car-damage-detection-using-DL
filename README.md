@@ -12,6 +12,7 @@ An AI-powered system that automatically detects and classifies vehicle damage fr
 
 ## 📋 Table of Contents
 
+- [Application Screenshots](https://github.com/neema-rose/car-damage-detection-using-DL/edit/main/README.md#%EF%B8%8F-application-screenshots)
 - [Overview](https://github.com/neema-rose/car-damage-detection-using-DL/edit/main/README.md#-overview)
 - [Problem Statement](https://github.com/neema-rose/car-damage-detection-using-DL/edit/main/README.md#-problem-statement)
 - [Solution](https://github.com/neema-rose/car-damage-detection-using-DL/edit/main/README.md#-solution)
@@ -24,7 +25,7 @@ An AI-powered system that automatically detects and classifies vehicle damage fr
 ---
 
 ## 🖼️ Application Screenshots
-![Prediction Result-1](screenshots/prediction_result.png)
+![Prediction Result-1](https://github.com/neema-rose/car-damage-detection-using-DL/blob/main/images/images_car_damage_detection_1.png)
 ## 🎯 Overview
 
 This project automates vehicle damage inspection using a deep learning model. It analyzes car images and classifies damage into 6 categories:
